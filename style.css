@@ -43,6 +43,7 @@ body {
     
 }
 
+
 #article {
     background-color: #777;
     color: #ebebeb; 
@@ -79,12 +80,10 @@ p {
 
 }
 
-#footer {
+footer {
+    position: absolute;
     clear: both;
-    background-color: #ebebeb;
-    margin: auto;   
-    padding: 30px;
-    margin-bottom: 20px;
+    background-color:black;
 }
 
 
